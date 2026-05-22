@@ -1,1 +1,0 @@
-# tirzepatide-knox-reader
